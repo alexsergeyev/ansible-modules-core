@@ -85,6 +85,7 @@ EXAMPLES = '''
 VALID_ENGINES = [
     'aurora5.6',
     'mariadb10.0',
+    'mariadb10.1', 
     'mysql5.1',
     'mysql5.5',
     'mysql5.6',
